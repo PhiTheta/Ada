@@ -13,3 +13,5 @@ This Repository contains codes written in Ada while learning the programming in 
 4. AdaCore : https://learn.adacore.com/
 5. MAKE with Ada - Embedded Software Competition : http://makewithada.org/
 6. Ada on Stackoverflow : https://stackoverflow.com/questions/tagged/ada
+7. https://github.com/samuell/awesome-ada
+8. https://github.com/ohenley/awesome-ada
